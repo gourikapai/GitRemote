@@ -20,13 +20,14 @@ public class DBToSeleniumTest {
 		
 	}
 	
-	public void getCity()
+	public void getCountry()
 	{
 		System.out.println("INDIA");
 		System.out.println("USA");
 		System.out.println("CHINA");
 		System.out.println("EUROPE");
 		System.out.println("JAPAN");
+		System.out.println("MALASIA");
 	}
 
 	public static void main(String[] args) throws SQLException {
