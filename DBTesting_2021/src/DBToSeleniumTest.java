@@ -19,6 +19,14 @@ public class DBToSeleniumTest {
 		System.out.println("we are here extracting username and password from Cert01 DB");
 		
 	}
+	
+	public void getCity()
+	{
+		System.out.println("INDIA");
+		System.out.println("USA");
+		System.out.println("CHINA");
+		System.out.println("EUROPE");
+	}
 
 	public static void main(String[] args) throws SQLException {
 		
