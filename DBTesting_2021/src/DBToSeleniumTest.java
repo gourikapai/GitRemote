@@ -14,6 +14,7 @@ public class DBToSeleniumTest {
 	public void display()
 	{
 		System.out.println("DB connection with selenium webdriver tutorial");
+		System.out.println("We can extract testdata present in DB into selenium script");
 		
 	}
 
