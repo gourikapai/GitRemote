@@ -41,6 +41,13 @@ public class DBToSeleniumTest {
 		System.out.println("Mumbai");
 	}
 	
+	public void allSet()
+	{
+		System.out.println("the project is ready to go live");
+		System.out.println("ALL THE BEST");
+		System.out.println("Good Bye");
+	}
+	
 	public static void main(String[] args) throws SQLException {
 		
 		
