@@ -41,6 +41,15 @@ public class DBToSeleniumTest {
 		System.out.println("Mumbai");
 	}
 	
+	
+	public void getCounty()
+	{
+		System.out.println("Mecklenburg county,Charlotte,NC");
+		System.out.println("Granville County, North Carolina");
+		System.out.println("Wayne County, North Carolina");
+		
+	}
+	
 	public void allSet()
 	{
 		System.out.println("the project is ready to go live");
