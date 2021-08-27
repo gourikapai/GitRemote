@@ -17,6 +17,7 @@ public class DBToSeleniumTest {
 		System.out.println("We can extract testdata present in DB into selenium script");
 		System.out.println("result set will have the DB query result which will be useful for extraction");
 		System.out.println("we are here extracting username and password from Cert01 DB");
+		System.out.println("we will need connection string ,username and password to connect to DB");
 		
 	}
 	
