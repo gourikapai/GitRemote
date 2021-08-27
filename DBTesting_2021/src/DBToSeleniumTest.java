@@ -31,6 +31,16 @@ public class DBToSeleniumTest {
 		System.out.println("MALASIA");
 	}
 
+	public void getCity()
+	{
+		System.out.println("Bangalore");
+		System.out.println("Haliyal");
+		System.out.println("Banaras");
+		System.out.println("Jhasi");
+		System.out.println("Puna");
+		System.out.println("Mumbai");
+	}
+	
 	public static void main(String[] args) throws SQLException {
 		
 		
